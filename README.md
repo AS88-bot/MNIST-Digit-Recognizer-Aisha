@@ -15,7 +15,7 @@ GitHub: [@aishasultana](https://github.com/aishasultana)
 ## How to Run
 Open the notebook on Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aishasultana/MNIST-Digit-Recognizer-Aisha/blob/main/MNIST_Digit_Classifier_AishaSultana.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AS88-bot/MNIST-Digit-Recognizer-Aisha/blob/main/Handwritten_Digit_Recognition_(MNIST)_updated.ipynb)
 
 ## License
 This project is open-source under the [MIT License](LICENSE).
